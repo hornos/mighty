@@ -34,7 +34,7 @@ fi
 ### shf3
 source $HOME/shf3/bin/shfrc
 # set the prompt
-shf3/ps1 "${PS1}✚"
+shf3/ps1 "${PS1}"
 # set framework features
 shf3/alias yes
 shf3/screen yes
